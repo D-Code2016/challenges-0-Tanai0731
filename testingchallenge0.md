@@ -11,7 +11,7 @@ You've tried to log in but when you clicked the button, nothing happened. Write 
 To complete this challenge you will need to add the solution to this file. To add to the file, click the file to open it then click the pencil icon to make it editable.
 
 **ENTER YOUR SOLUTION HERE***
-
+ After a user fills in their login information, they will press a button that signifies that the information is filled in and they are logged into their account. When I tried to login after filling out my information and clicking the button, nothing happened.
 
 **Solution End**
 
