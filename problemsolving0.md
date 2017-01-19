@@ -13,7 +13,7 @@ Write the step by step instructions for organizing the "colored legos" so that a
 1. Grab the blue lego at the end of the line
 2.Put the blue lego in the front of the line
 3. Grab the blue lego that is now fourth in line
-4. Put the blue lego in front of the line
+4. Afterwards, put the blue lego in front of the line
 
 
 **Solution End**
